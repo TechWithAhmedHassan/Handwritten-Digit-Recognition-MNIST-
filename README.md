@@ -35,11 +35,4 @@ The project uses the **MNIST dataset**, which contains:
 
 ---
 
-## 📂 Project Structure  
-```bash
-├── data/               # MNIST dataset (optional, can be downloaded via Keras/Sklearn)
-├── notebooks/          # Jupyter notebooks for exploration & training
-├── models/             # Saved trained models
-├── images/             # Plots, graphs, and sample outputs
-├── requirements.txt    # Dependencies
-└── main.py             # Main script to train/evaluate model
+
