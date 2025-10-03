@@ -1,6 +1,6 @@
 # 🖊️ Handwritten Digit Recognition (MNIST)
 
-A machine learning project to classify handwritten digits (0–9) using the **MNIST dataset**. The model learns to recognize patterns in pixel values and predicts the correct digit with high accuracy.
+A machine learning project to classify handwritten digits (0–9) using the **MNIST dataset**. The model learns to recognize patterns in pixel values and predicts the correct digit with high accuracy
 
 ---
 
